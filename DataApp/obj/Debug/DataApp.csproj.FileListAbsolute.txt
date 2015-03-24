@@ -1,0 +1,11 @@
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\obj\Debug\DataApp.csprojResolveAssemblyReference.cache
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\obj\Debug\DataApp.MainForm.resources
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\obj\Debug\DataApp.Properties.Resources.resources
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\obj\Debug\DataApp.csproj.GenerateResource.Cache
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\bin\Debug\DataApp.exe.config
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\bin\Debug\DataApp.exe
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\bin\Debug\DataApp.pdb
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\bin\Debug\QuantBox.XAPI.dll
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\bin\Debug\QuantBox.XAPI.pdb
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\obj\Debug\DataApp.exe
+c:\users\jht\documents\visual studio 2013\Projects\DataApp\DataApp\obj\Debug\DataApp.pdb
